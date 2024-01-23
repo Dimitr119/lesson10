@@ -1,1 +1,2 @@
-gcloud storage commands - uses in loading data
+gcloud storage commands - used in loading data to the GCP Storage
+
